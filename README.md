@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j3llyroll
 - 👀 I’m interested in ...learning fivem full mod installation 
 - 🌱 I’m currently learning ...adding resources 
-- 💞️ I’m looking to collaborate on ...grab no pixel like servers
+- 💞️ I’m looking to collaborate on ...installing no pixel like servers
 - 📫 How to reach me ...bloodshed72@gmail.com
 
 <!---
